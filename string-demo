@@ -1,0 +1,25 @@
+website="http://www.sadikturan.com"
+course="Python Kursu: Baştan Sona Python Programlama Rehberiniz (40 Saat)"
+
+lenCourse=len(course)
+print(lenCourse)
+
+www=website[7:10]
+print(www)
+
+lenWebSite=len(website)
+
+com1=website[22:25]
+com2=website[lenWebSite-3:lenWebSite]
+
+print(com1)
+print(com2)
+
+start15=course[:15]
+start15=course[0:15]
+end15=course[-15:]
+
+
+
+
+
